@@ -1,0 +1,11 @@
+  node_modules/
+  .env
+  *.log
+  .terraform/
+  *.tfstate
+  *.tfstate.backup
+  .DS_Store
+  EOF
+
+  mkdir -p src terraform ansible k8s .github/workflows
+  touch src/.gitkeep terraform/.gitkeep ansible/.gitkeep k8s/.gitkeep .github/workflows/.gitkeep
