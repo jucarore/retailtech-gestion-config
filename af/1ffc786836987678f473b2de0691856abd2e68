@@ -1,0 +1,14 @@
+src/calculadora.js
+  h_f8ee31881051d9 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "af1ffc786836987678f473b2de0691856abd2e68",
+  "prompts": {},
+  "humans": {
+    "h_f8ee31881051d9": {
+      "author": "jucarore <jucarore@gmail.com>"
+    }
+  }
+}
